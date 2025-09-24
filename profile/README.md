@@ -18,7 +18,42 @@
 
 We specialize in **Developer Experience (DevEx)** and **Developer Relations (DevRel)** for web3 projects. Our mission is simple: make developers fall in love with your technology by creating seamless, delightful experiences that turn complexity into clarity. We foster a **culture** of collaboration and innovation within the developer community.
 
-Also, we run **hackathons** with exceptional outcomes.
+### 🎯 Our Core Services
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/developer-experience-icon" alt="DevEx" width="80"/>
+      <h3>🚀 Developer Experience</h3>
+      <p>Frictionless onboarding • Intuitive APIs • Comprehensive docs • Developer-first design</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/community-icon" alt="Community" width="80"/>
+      <h3>🌍 Community Building</h3>
+      <p>Discord communities • Hackathons • Developer advocacy • Technical content strategy</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/web3-icon" alt="Web3" width="80"/>
+      <h3>⚡ Web3 Expertise</h3>
+      <p>Blockchain protocols • DeFi ecosystems • Smart contract UX • Decentralized tooling</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏗️ Featured Projects
+
+<!-- Add your key projects here -->
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🔗 **[Project Name](https://github.com/devcult/project)** | Brief description of what makes this project special | `React` `TypeScript` `Solidity` |
+| 🛠️ **[Tool Name](https://github.com/devcult/tool)** | Developer tool that improves web3 DX | `Node.js` `CLI` `Web3.js` |
+| 📚 **[Resource Hub](https://github.com/devcult/resources)** | Curated resources for web3 developers | `Markdown` `Community` |
+
+</div>
 
 ---
 
@@ -26,9 +61,17 @@ Also, we run **hackathons** with exceptional outcomes.
 
 <div align="center">
 
+![GitHub followers](https://img.shields.io/github/followers/0xdevcult?style=social)
+![GitHub stars](https://img.shields.io/github/stars/0xdevcult?style=social)
 ![Twitter followers](https://img.shields.io/twitter/follow/0xDevCult?style=social)
 
 </div>
+
+### 🎯 What Success Looks Like
+- **50%** reduction in time-to-first-success for new developers
+- **10x** increase in community engagement and contributions
+- **Zero** to production-ready developer onboarding in under 30 minutes
+- **Thriving** ecosystems where developers build, learn, and grow together
 
 ---
 
@@ -69,6 +112,7 @@ Continuous improvement through developer feedback, usage analytics, and communit
 We'd love to chat about your project and explore how we can help you build a thriving developer community.
 
 [![Get in touch](https://img.shields.io/badge/Get_in_touch-blue?style=for-the-badge)](mailto:info@devcult.io)
+[![Book a call](https://img.shields.io/badge/Book_a_call-green?style=for-the-badge)](https://cal.com/devcult)
 
 </div>
 
