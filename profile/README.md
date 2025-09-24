@@ -4,71 +4,58 @@
 
 ### Want to compete in opensource — make it the heaven for devs. We'll show you the way.
 
-*Crafting exceptional developer experiences and building thriving communities in web3*
+*We build developer experiences that actually work and communities that don't suck*
 
-[![X/Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/0xDevCult)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/devcult)
-[![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://devcult.io)
-
-</div>
-
----
-
-## 🌟 What We Do
-
-We specialize in **Developer Experience (DevEx)** and **Developer Relations (DevRel)** for web3 projects. Our mission is simple: make developers fall in love with your technology by creating seamless, delightful experiences that turn complexity into clarity. We foster a **culture** of collaboration and innovation within the developer community.
-
-Also, we run **hackathons** with exceptional outcomes.
-
----
-
-## 📈 Impact & Metrics
-
-<div align="center">
-
-![Twitter followers](https://img.shields.io/twitter/follow/0xDevCult?style=social)
+[![X Followers](https://img.shields.io/twitter/follow/0xDevCult?style=for-the-badge&logo=x&logoColor=white&label=0xDevCult&color=black)](https://x.com/0xDevCult)
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow-DevCult-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/devcult)
+[![Website](https://img.shields.io/badge/Website-devcult.io-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://devcult.io)
+[![Polkadot Forum](https://img.shields.io/badge/Polkadot-Forum-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)](https://forum.polkadot.network/u/devcult/summary)
 
 </div>
 
 ---
 
-## 🤝 How We Work With You
+We're **Developer Experience (DevEx)** and **Developer Relations (DevRel)** specialists who've been in the trenches of web3 since before it was cool.
 
-<details>
-<summary><b>🔍 Discovery & Audit</b></summary>
-<br>
-We start by understanding your current developer journey, identifying pain points, and mapping opportunities for improvement.
-</details>
+Here's the deal: most projects treat developers like afterthoughts. Terrible docs, broken examples, communities that feel like ghost towns. We fix that shit.
 
-<details>
-<summary><b>🎨 Experience Design</b></summary>
-<br>
-From API design to documentation structure, we craft experiences that feel intuitive and delightful at every touchpoint.
-</details>
+We build:
+- **Onboarding that works** — get developers from zero to shipping in minutes, not weeks
+- **Communities where real work happens** — not just another Discord graveyard
+- **Documentation people actually read** — because wall-of-text GitHub READMEs aren't cutting it
+- **APIs that don't make you want to scream** — intuitive, well-documented, actually functional
 
-<details>
-<summary><b>🚀 Implementation & Launch</b></summary>
-<br>
-We don't just strategize — we build, test, and deploy solutions that make immediate impact on your developer metrics.
-</details>
-
-<details>
-<summary><b>📊 Measure & Iterate</b></summary>
-<br>
-Continuous improvement through developer feedback, usage analytics, and community health metrics.
-</details>
+Also, we run **hackathons** that bring actual value instead of abandoned repositories.
 
 ---
 
-## 💬 Let’s make your DevEx shine.
+## Why developers hate your project (and how we fix it)
+
+### 🔥 The brutal truth
+- Your quickstart guide takes 3 hours to complete
+- Your error messages are cryptic AF
+- Your community channels are full of tumbleweeds
+- Nobody knows how to actually use your "revolutionary" technology
+
+### ⚡ What we do about it
+- **Radical simplification** — from First Principles
+- **Real-world examples** — not toy demos that break in production
+- **Human-readable errors** — because `Error: undefined` helps nobody
+- **Communities that actually help** — where senior devs mentor newcomers instead of gatekeeping
+
+We've seen too many great projects die because their developer experience was garbage. Don't let yours be one of them.
+
+---
+
+## Let us make your DevEx shine 🌟
 
 <div align="center">
 
-**Ready to transform your developer experience?**
+**Tired of developers bouncing off your project?**
 
-We'd love to chat about your project and explore how we can help you build a thriving developer community.
+💬 Let's talk about turning your documentation disaster into something developers actually want to use.
 
-[![Get in touch](https://img.shields.io/badge/Get_in_touch-blue?style=for-the-badge)](mailto:info@devcult.io)
+[![Email](https://img.shields.io/badge/Get_in_touch-info@devcult.io-red?style=for-the-badge&logo=deutschepost&logoColor=white)](mailto:info@devcult.io)
 
 </div>
 
