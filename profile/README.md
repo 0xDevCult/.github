@@ -6,9 +6,9 @@
 
 *We build developer experiences that actually work and communities that don't suck*
 
-[![X Followers](https://img.shields.io/twitter/follow/0xDevCult?style=for-the-badge&logo=x&logoColor=white&label=0xDevCult&color=black)](https://x.com/0xDevCult)
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow-DevCult-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/devcult)
-[![Website](https://img.shields.io/badge/Website-devcult.io-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://devcult.io)
+[![Twitter](https://img.shields.io/twitter/follow/0xDevCult?style=for-the-badge&logo=x&logoColor=white&label=0xDevCult&color=black)](https://x.com/0xDevCult)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DevCult-0077B5?style=for-the-badge&logo=invision&logoColor=white)](https://linkedin.com/company/devcult)
+[![Website](https://img.shields.io/badge/Website-devcult.io-orange?style=for-the-badge&logo=internet-archive&logoColor=white)](https://devcult.io)
 [![Polkadot Forum](https://img.shields.io/badge/Polkadot-Forum-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)](https://forum.polkadot.network/u/devcult/summary)
 
 </div>
